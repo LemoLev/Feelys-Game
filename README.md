@@ -1,7 +1,10 @@
-# Server-wide-game
-This is a game made in Godot that anyone can collaborate on and make the game better
+# Feelys-Game
+This is a version of the original game made in **Unity** that anyone can collaborate on and make the game better
 
-#rules#
-
-idk 
+**RULES**
+<ol>
+  <li>
+    idk
+  </li>
+</ol>
 
